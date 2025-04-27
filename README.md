@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm SirOogway</h1>
-<p align="center">The best junior android developer</p>
+<p align="center">The best android developer</p>
 <h3 align="center">Technologies That I Know</h3>
 <!--tech stack icons-->
 <div align="center">
@@ -20,8 +20,8 @@
             <tr><th>Technology</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
             <tr><td>Jetpack Compose</td><td></td><td></td><td align="center">✅</td></tr>
             <tr><td>Fragments</td>      <td></td><td></td><td align="center">✅</td></tr>
-            <tr><td>FireBase</td>       <td align="center">✅</td><td></td><td></td></tr>
-            <tr><td>MVVM</td>           <td align="center">✅</td><td></td><td></td></tr>
+            <tr><td>FireBase</td>       <td align="center"></td><td>✅</td><td></td></tr>
+            <tr><td>MVVM</td>           <td align="center"></td><td></td><td>✅</td></tr>
             <tr><td>Version Catalog</td><td></td><td></td><td align="center">✅</td></tr>
         </table>
 </div>
@@ -29,9 +29,9 @@
 <div align="center">
         <table>
             <tr><th>Pattern</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
-            <tr><td>Singleton</td>         <td></td><td align="center">✅</td><td></td></tr>
-            <tr><td>Builder</td>           <td align="center">✅</td><td></td><td></td></tr>
-            <tr><td>Repository</td>        <td align="center">✅</td><td></td><td></td></tr>
+            <tr><td>Singleton</td>         <td></td><td align="center"></td><td>✅</td></tr>
+            <tr><td>Builder</td>           <td align="center"></td><td>✅</td><td></td></tr>
+            <tr><td>Repository</td>        <td align="center"></td><td></td><td>✅</td></tr>
         </table>
 </div>
 <h4 align="center">Storage</h4>
@@ -40,7 +40,7 @@
             <tr><th>Storage</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
             <tr><td>SQLite</td>         <td></td><td align="center">✅</td><td></td></tr>
             <tr><td>Room</td>           <td align="center">✅</td><td></td><td></td></tr>
-            <tr><td>DataStore</td>      <td align="center">✅</td><td></td><td></td></tr>
+            <tr><td>DataStore</td>      <td align="center"></td><td></td><td>✅</td></tr>
         </table>
 </div>
 <h3 align="center">Connect with me</h3>
