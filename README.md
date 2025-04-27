@@ -20,8 +20,8 @@
             <tr><th>Technology</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
             <tr><td>Jetpack Compose</td><td></td><td></td><td align="center">✅</td></tr>
             <tr><td>Fragments</td>      <td></td><td></td><td align="center">✅</td></tr>
-            <tr><td>FireBase</td>       <td align="center"></td><td>✅</td><td></td></tr>
-            <tr><td>MVVM</td>           <td align="center"></td><td></td><td>✅</td></tr>
+            <tr><td>FireBase</td>       <td></td><td align="center">✅</td><td></td></tr>
+            <tr><td>MVVM</td>           <td></td><td></td><td align="center">✅</td></tr>
             <tr><td>Version Catalog</td><td></td><td></td><td align="center">✅</td></tr>
         </table>
 </div>
@@ -30,8 +30,8 @@
         <table>
             <tr><th>Pattern</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
             <tr><td>Singleton</td>         <td></td><td align="center"></td><td>✅</td></tr>
-            <tr><td>Builder</td>           <td align="center"></td><td>✅</td><td></td></tr>
-            <tr><td>Repository</td>        <td align="center"></td><td></td><td>✅</td></tr>
+            <tr><td>Builder</td>           <td></td><td align="center">✅</td><td></td></tr>
+            <tr><td>Repository</td>        <td></td><td></td><td align="center">✅</td></tr>
         </table>
 </div>
 <h4 align="center">Storage</h4>
@@ -40,10 +40,6 @@
             <tr><th>Storage</th><th>For Learn</th><th>Learning</th><th>Learned</ht></tr>
             <tr><td>SQLite</td>         <td></td><td align="center">✅</td><td></td></tr>
             <tr><td>Room</td>           <td align="center">✅</td><td></td><td></td></tr>
-            <tr><td>DataStore</td>      <td align="center"></td><td></td><td>✅</td></tr>
+            <tr><td>DataStore</td>      <td></td><td></td><td align="center">✅</td></tr>
         </table>
 </div>
-<h3 align="center">Connect with me</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/andres-garcia-siroogway/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-</p>
